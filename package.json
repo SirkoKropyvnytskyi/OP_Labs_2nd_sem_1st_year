@@ -1,0 +1,22 @@
+{
+  "name": "labs-js-utils",
+  "version": "1.0.0",
+  "description": "JavaScript utilities for coursework labs (memoize, generator, iterator, event system, async utils, logger decorator)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "labs",
+    "memoize",
+    "generator",
+    "eventEmitter",
+    "async",
+    "logger",
+    "iterator"
+  ],
+  "author": "Horbatiuk Oleksandr",
+  "license": "MIT"
+}
